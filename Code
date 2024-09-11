@@ -14,7 +14,7 @@
             {
                 totalCost = totalCost;
             }
-            Console.WriteLine("Total cost is " + totalCost);
+            Console.WriteLine("Total cost is £" + totalCost);
             Console.ReadLine();
         }
     }
